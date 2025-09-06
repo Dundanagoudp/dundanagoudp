@@ -102,6 +102,3 @@ I'm a passionate full-stack developer with expertise in building modern, high-pe
   <i>"Turning ideas into functional, beautiful applications is my passion."</i>
 </p>
 
-<p align="center">
-  <img src="https://github.com/dundanagoudp/dundanagoudp/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
