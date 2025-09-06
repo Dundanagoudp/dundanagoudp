@@ -90,7 +90,7 @@ I'm a passionate full-stack developer with expertise in building modern, high-pe
 
 ## 🏆 GitHub Trophies
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://github-profile-trophy.vercel.app/?username=dundanagoudp&theme=radical&no-frame=true&row=1&column=6" alt="dundanagoudp" />
 </p>
 
