@@ -60,19 +60,9 @@ I'm a passionate full-stack developer with expertise in building modern, high-pe
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dundanagoudp&layout=compact&theme=radical" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dundanagoudp&theme=radical" />
-</p>
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  
-  <!-- Main Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dundanagoudp&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Dundanagoud's GitHub stats" />
   
   <!-- Streak Stats -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dundanagoudp&theme=radical&hide_border=true" alt="GitHub streak" />
