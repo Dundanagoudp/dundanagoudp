@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dundanagoud Patil</h1>
-<h3 align="center">Full Stack Developer | React & Next.js Specialist | Passionate About Building Scalable Web Applications</h3>
+<h3 align="center">A Passionate Full Stack Developer Building Scalable & Modern Web Applications</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dundanagoud-patil/" target="blank">
@@ -15,15 +15,27 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate full-stack developer with expertise in building modern, high-performance web applications using React, Next.js, and Node.js. I enjoy solving complex problems and creating seamless user experiences with clean, maintainable code.
+I'm a dedicated Full Stack Developer specializing in the **MERN stack** and **Next.js**. I thrive on transforming complex ideas into high-performance, user-friendly web applications. My focus is on writing clean, efficient, and maintainable code.
 
-- 🔭 **Currently working on:** Advanced web applications with modern tech stacks
-- 🌱 **Currently learning:** React Native, Python, FastAPI & AI Agents
-- 👯 **Looking to collaborate on:** React Native, Python, and FastAPI projects
-- 💡 **Interests:** Web development, mobile apps, AI integration, and technical blogging
-- ✍️ **Blogger:** Creating technical content and earning through Google AdSense
+- 🔭 **Currently Working On:** Enhancing my skills in **React Native** and **AI integration**.
+- 🌱 **Currently Learning:** **Python, FastAPI, and AI Agents** to expand my backend capabilities.
+- 👯 **Looking to Collaborate On:** Innovative projects involving **React Native, Python, or Open Source**.
+- 💡 **Interests:** Full-stack development, mobile apps, and exploring new technologies.
+- ✍️ **Blogging:** I create technical content and share my knowledge.
+
+---
+
+## 🚀 Featured Projects
+
+Here are a few of my key projects that showcase my skills:
+
+1.  **[Project Name One](https://github.com/dundanagoudp/repo-one)** - A full-stack e-commerce platform built with MERN and Stripe integration. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+2.  **[Project Name Two](https://github.com/dundanagoudp/repo-two)** - A modern blog with CMS functionality using Next.js and WordPress. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
+3.  **[Project Name Three](https://github.com/dundanagoudp/repo-three)** - A mobile application built with React Native for task management. | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**(Replace the project names, links, and descriptions with your actual work! This section is crucial.)*
 
 ---
 
@@ -57,35 +69,33 @@ I'm a passionate full-stack developer with expertise in building modern, high-pe
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+---
+
 ## 📊 GitHub Stats & Activity
 
-<p align="left">
-  
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dundanagoudp&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dundanagoud's GitHub Stats" />
   <!-- Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dundanagoudp&theme=radical&hide_border=true" alt="GitHub streak" />
-  
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dundanagoudp&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
-
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dundanagoudp&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Additional Metrics -->
-<p align="left">
-
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dundanagoudp&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
-  
+<p align="center">
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dundanagoudp&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dundanagoudp&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="left"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=dundanagoudp&theme=radical&no-frame=true&row=1&column=6" alt="dundanagoudp" />
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=dundanagoudp&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="dundanagoudp" />
 </p>
 
 ---
@@ -94,14 +104,14 @@ I'm a passionate full-stack developer with expertise in building modern, high-pe
 
 - 📧 **Email:** [chetanpatil2243@gmail.com](mailto:chetanpatil2243@gmail.com)
 - 💼 **LinkedIn:** [Dundanagoud Patil](https://www.linkedin.com/in/dundanagoud-patil/)
-- 🌐 **Portfolio:** [GitHub Portfolio](https://github.com/dundanagoudp)
+- 🌐 **GitHub:** [dundanagoudp](https://github.com/dundanagoudp)
 
 ---
 
 <p align="center">
-  <i>"Turning ideas into functional, beautiful applications is my passion."</i>
+   <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
 </p>
 
 <p align="center">
-  <img src="https://github.com/dundanagoudp/dundanagoudp/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/dundanagoudp/dundanagoudp/output/snake.svg" alt="Snake animation" />
 </p>
