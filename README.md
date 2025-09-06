@@ -61,7 +61,7 @@ I'm a passionate full-stack developer with expertise in building modern, high-pe
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
+<p align="left">
   
   <!-- Streak Stats -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dundanagoudp&theme=radical&hide_border=true" alt="GitHub streak" />
@@ -72,10 +72,8 @@ I'm a passionate full-stack developer with expertise in building modern, high-pe
 </p>
 
 <!-- Additional Metrics -->
-<p align="center">
-  
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=dundanagoudp&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub trophies" />
+<p align="left">
+
   
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dundanagoudp&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
