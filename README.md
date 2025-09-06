@@ -67,6 +67,37 @@ I'm a passionate full-stack developer with expertise in building modern, high-pe
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dundanagoudp&theme=radical" />
 </p>
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  
+  <!-- Main Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dundanagoudp&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Dundanagoud's GitHub stats" />
+  
+  <!-- Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dundanagoudp&theme=radical&hide_border=true" alt="GitHub streak" />
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dundanagoudp&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+
+</p>
+
+<!-- Additional Metrics -->
+<p align="center">
+  
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=dundanagoudp&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub trophies" />
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dundanagoudp&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
+  
+</p>
+
+<!-- Metrics with more details -->
+<p align="center">
+  <img src="https://metrics.lecoq.io/dundanagoudp?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata" alt="GitHub metrics" width="100%" />
+</p>
+
 
 ---
 
