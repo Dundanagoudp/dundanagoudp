@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=dundanagoudp&label=Profile%20views&color=0e75b6&style=flat" alt="dundanagoudp" /> 
   <img src="https://img.shields.io/github/followers/dundanagoudp?label=Followers&style=social" alt="GitHub followers">
 </p>
