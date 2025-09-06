@@ -76,10 +76,6 @@ I'm a passionate full-stack developer with expertise in building modern, high-pe
   
 </p>
 
-<!-- Metrics with more details -->
-<p align="center">
-  <img src="https://metrics.lecoq.io/dundanagoudp?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata" alt="GitHub metrics" width="100%" />
-</p>
 
 
 ---
