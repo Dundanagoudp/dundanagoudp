@@ -59,7 +59,6 @@ I'm a passionate Full Stack Developer with expertise in building modern, high-pe
 ### Software Engineer 2 @ Digi9 Reach Info Systems
 **Apr 2025 - Present** | Bengaluru, India
 - Led full-stack development for government projects serving millions of citizens
-- Engineered Google Classroom analytics platform with real-time features
 - Architected multi-role e-commerce platforms with Razorpay integration
 - Optimized performance, reducing development time by 20%
 
