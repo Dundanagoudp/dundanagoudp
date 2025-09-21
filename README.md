@@ -80,14 +80,13 @@ Bachelor of Engineering in Mechanical Engineering
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dundanagoudp&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dundanagoudp&layout=compact&theme=radical&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dundanagoudp&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dundanagoudp&theme=radical&hide_border=true" />
-</p>
+
 
 ---
 
