@@ -125,7 +125,7 @@ A backend system for ride-hailing workflows with real-time tracking and map inte
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dundanagoudp&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dundanagoudp&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dundanagoudp&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-    <img height="180em" src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dundanagoud&show_icons=true&theme=radical&hide_border=true)" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dundanagoud&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="left">
