@@ -104,6 +104,11 @@ I'm a passionate Full Stack Developer with 2+ years of experience building moder
 - Implemented CI/CD pipelines and optimized application performance
 - Built data workflows with MongoDB and Firebase integration
 
+**Software Development Engineer Intern** @ Digi9 Reach Info Systems Private Limited (Jan 2024 - Mar 2024)
+- Built 15+ responsive UI components for production e-commerce platforms
+- Assisted in React component development and debugging
+- Gained hands-on experience with component-driven architecture
+
 ---
 
 ## 📫 Let's Connect
