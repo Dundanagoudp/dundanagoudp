@@ -27,7 +27,6 @@ I'm a passionate Full Stack Developer with 2+ years of experience building moder
 - 🌱 **Currently learning:** React Native, Python, FastAPI & AI Agents  
 - 👯 **Looking to collaborate on:** React Native, Python, FastAPI, and AI-powered projects  
 - 💡 **Interests:** Web development, mobile apps, AI integration, and technical blogging  
-- ✍️ **Technical Writer:** Creating content and sharing knowledge with the developer community  
 
 ---
 
