@@ -1,128 +1,163 @@
-<h1 align="center">Hi 👋, I'm Dundanagoud Patil</h1>
-<h3 align="center">Full Stack Developer | React.js • Next.js • Node.js • TypeScript | AI Integration</h3>
+# Dundanagoud Patil
 
-<p align="center">
-Building modern, scalable, and high-performance web applications with clean engineering practices.
-</p>
+### Full Stack Engineer
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dundanagoud-patil/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:chetanpatil2243@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/dundanagoudp">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetanpatil2243@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dundanagoud-patil/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dundanagoudp)
+
+📱 +91-8830525852
 
 ---
 
-## 🚀 About Me
+## Professional Summary
 
-I'm a passionate Full Stack Developer with 2+ years of experience building modern, high-performance web applications using React, Next.js, and Node.js. I specialize in creating scalable enterprise solutions for government and commercial clients, with expertise in AI integration and performance optimization.
-
-- 🔭 **Currently working on:** Advanced web applications with AI integration and modern tech stacks  
-- 🌱 **Currently learning:** React Native, Python, FastAPI & AI Agents  
-- 👯 **Looking to collaborate on:** React Native, Python, FastAPI, and AI-powered projects  
-- 💡 **Interests:** Web development, mobile apps, AI integration, and technical blogging  
+Full Stack Engineer with 2+ years building and shipping production-grade applications for government and enterprise clients. Deep expertise in React.js, Node.js, and cloud-native AWS architectures — from microservices design to CI/CD automation. Track record of delivering high-availability platforms (99.9% uptime) serving 10,000+ daily users, with hands-on ownership across the full delivery lifecycle: architecture, development, deployment, and optimization.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Frontend**
+
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend Development
+**Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-4B4B4B?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-4B4B4B?style=for-the-badge)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### Databases & Storage
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-4B4B4B?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+*AWS services used: EC2, ECS/Fargate, S3, RDS, DynamoDB, API Gateway, CloudFront, Lambda, CloudWatch, IAM*
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+**Architecture & Practices**
 
-### CMS & E-Commerce
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dundanagoudp&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dundanagoudp&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dundanagoudp&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dundanagoudp&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
+![Serverless](https://img.shields.io/badge/Serverless-4B4B4B?style=for-the-badge)
+![Cloud Native](https://img.shields.io/badge/Cloud--Native-4B4B4B?style=for-the-badge)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-4B4B4B?style=for-the-badge)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-4B4B4B?style=for-the-badge)
+![AI Integration](https://img.shields.io/badge/AI_Integration-4B4B4B?style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-4B4B4B?style=for-the-badge)
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=dundanagoudp&theme=radical&no-frame=true&row=1&column=7" />
-</p>
+## Professional Experience
+
+**Software Engineer II** — Digi9 Reach Info Systems Private Limited
+*Apr 2025 – Present | Bengaluru, India*
+- Own end-to-end deployment of government-grade platforms on AWS (ECS/Fargate, EC2, API Gateway) with automated CI/CD pipelines — cutting deployment time by 50% and sustaining 99.9% uptime for citizen-facing services at national scale.
+- Architected multi-role cloud-native e-commerce infrastructure on AWS (EC2, S3, RDS, DynamoDB) with Docker containerization, reliably serving 10,000+ daily users across distributed dashboards.
+- Led full-stack delivery of Google Classroom Analytics Platform for the Bhutan Government — Node.js backend, React.js frontend, PostgreSQL/MongoDB with Redis caching on AWS EC2 — from design through production launch.
+- Drive Agile ceremonies across cross-functional teams; delivered Karnataka DIPR and Arunachal DIPR government portals on schedule using GitHub Actions and Docker-based CI/CD automation.
+
+**Junior Software Engineer** — Digi9 Reach Info Systems Private Limited
+*Apr 2024 – Mar 2025 | Bengaluru, India*
+- Engineered scalable Node.js RESTful APIs on AWS EC2, optimizing PostgreSQL and MongoDB query performance to achieve 30% faster response times under 10,000+ daily request loads.
+- Built and maintained Docker + GitHub Actions CI/CD pipelines, eliminating 60% of manual deployment effort with automated testing, rollback, and environment parity.
+- Accelerated React.js/Next.js frontend performance by 40% through AWS CloudFront CDN integration, while improving mobile responsiveness by 15% across production interfaces.
+- Established MongoDB cluster backup automation to AWS S3 and Firebase real-time workflows, increasing data synchronization speed by 40% and ensuring zero-loss disaster recovery.
+
+**Software Development Engineer Intern** — Digi9 Reach Info Systems Private Limited
+*Jan 2024 – Mar 2024 | Bengaluru, India*
+- Delivered 15+ production-ready responsive UI components in HTML5, CSS3, and JavaScript, contributing to a 20% improvement in page performance for live e-commerce platforms.
+- Accelerated bug resolution by 30% through disciplined React component debugging and Git version control within an Agile team environment.
 
 ---
 
-## 💼 Professional Experience
+## Projects
 
-**Software Engineer 2** @ Digi9 Reach Info Systems Private Limited (Apr 2025 - Present)
-- Leading full-stack development for government platforms serving millions of citizens
-- Engineering enterprise-grade solutions with AI integration
-- Architecting scalable multi-role applications with performance optimization
+**YFSI Platform — Youth For Social Innovation** | *Next.js, Node.js, PostgreSQL, MongoDB, Redis, RabbitMQ, Docker* (2026)
+- Architected national-scale youth innovation platform with Next.js frontend and Node.js microservices (API Gateway, Core, Chat/LMS) for 10+ user roles — covering full lifecycle: enrollment, LMS, AI evaluation, mentorship, and automated certificate generation.
+- Built real-time chat (Socket.IO), async workers (RabbitMQ, BullMQ) for AI scoring and PDF generation, and deployed all services on AWS/Azure with Docker CI/CD and encrypted JWT auth.
 
-**Junior Software Engineer** @ Digi9 Reach Info Systems Private Limited (Apr 2024 - Mar 2025)
-- Developed responsive UIs and scalable backend services
-- Implemented CI/CD pipelines and optimized application performance
-- Built data workflows with MongoDB and Firebase integration
+**Google Classroom Analytics Platform** | *Next.js, Node.js, PostgreSQL, MongoDB, Redis, AWS, Docker, Nginx* (2025)
+- Delivered 130+ REST API endpoints with Redis caching for Bhutan Government, serving 10,000+ students and teachers at 99.8% uptime with sub-200ms response times on AWS EC2.
+- Built multi-tier RBAC dashboards (Super Admin, District, Teacher, Student) with OAuth 2.0 and integrated Gemini API for AI-powered lesson planning with persistent conversation state.
 
-**Software Development Engineer Intern** @ Digi9 Reach Info Systems Private Limited (Jan 2024 - Mar 2024)
-- Built 15+ responsive UI components for production e-commerce platforms
-- Assisted in React component development and debugging
-- Gained hands-on experience with component-driven architecture
+**Karnataka Varthe — Official Government News Portal** | *React.js, Node.js, MongoDB, Firebase, AWS, Docker* (2025)
+- Shipped varthe.karnataka.gov.in — React on AWS S3/CloudFront, Node.js on EC2 with Nginx load balancing, zero-downtime deployments via GitHub Actions CI/CD, and MongoDB with automated S3 backups.
+- Built multilingual UI with React Context API, Firebase real-time integration, and modular Axios service layers for news, magazines, videos, galleries, and secure auth workflows.
+
+**TopRise Multi-Role E-Commerce Platform** | *TypeScript, Redux Toolkit, Node.js, PostgreSQL, AWS, Docker* (2024–2025)
+- Reduced infrastructure costs by 40% architecting AWS EC2 + API Gateway with PostgreSQL RDS; handled 10,000+ concurrent users via ECS/Fargate auto-scaling with blue-green CI/CD.
+- Built 5 role-based dashboards (Super Admin, Fulfillment, Inventory, Dealer, Support) with Redux Toolkit state management and Razorpay payment gateway with webhook validation.
+
+**Arunachal Literature Festival Portal** | *Next.js 15, TypeScript, Tailwind CSS 4, Node.js, AWS, Docker* (2025)
+- Delivered litfest.arunachal.gov.in — Next.js 15 frontend with Tailwind CSS 4 optimized for low-bandwidth regions, backend event management APIs, and secure AWS production deployment with CI/CD.
+- Built admin workflows for event schedules, cultural programs, speaker profiles, and media galleries with content management and zero-downtime Docker deployments.
+
+**Arunachal Film Festival Platform** | *Next.js, Node.js, Express.js, MongoDB, JWT, Multer, Nodemailer* (2025)
+- Delivered filmfest.arunachal.gov.in — REST APIs for film submissions, event registration, nominations, awards, and workshops with Multer file uploads, JWT auth, CAPTCHA, rate limiting, and Helmet security headers.
+- Built admin dashboard with real-time KPIs (submissions, registrations, events, awards) and full CMS for banners, announcements, guest profiles, and Nodemailer email notification workflows.
+
+**Uber Map Integration System** | *React.js, Node.js, Express.js, MongoDB, Socket.IO, Docker* (2024)
+- Built complete ride-hailing backend with REST APIs for booking, real-time GPS tracking, dynamic fare calculation, and map integration — containerized with Docker for multi-environment deployment.
+- Engineered real-time driver-rider communication via Socket.IO with instant location updates, push notifications, and JWT-secured role-based access control for Rider, Driver, and Captain roles.
 
 ---
 
-## 📫 Let's Connect
+## Education
 
-- 📧 **Email:** [chetanpatil2243@gmail.com](mailto:chetanpatil2243@gmail.com)  
-- 💼 **LinkedIn:** [Dundanagoud Patil](https://www.linkedin.com/in/dundanagoud-patil/)  
-- 🌐 **GitHub:** [github.com/dundanagoudp](https://github.com/dundanagoudp)  
-- 📱 **Phone:** +91-8830525852
+**Bachelor of Engineering in Mechanical Engineering**
+Visvesvaraya Technological University, Vijayapura, Karnataka
+*Jul 2019 – May 2023*
+CGPA: 8.09/10 (78%)
 
 ---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dundanagoudp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dundanagoudp&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dundanagoudp&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <i>"Turning ideas into scalable, production-ready applications with clean engineering practices."</i>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dundanagoudp&layout=compact&theme=default&hide_border=true&langs_count=8" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dundanagoudp&theme=minimal&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dundanagoudp&theme=flat&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## Contact
+
+- Email: [chetanpatil2243@gmail.com](mailto:chetanpatil2243@gmail.com)
+- LinkedIn: [dundanagoud-patil](https://www.linkedin.com/in/dundanagoud-patil/)
+- GitHub: [dundanagoudp](https://github.com/dundanagoudp)
+- Phone: +91-8830525852
