@@ -1,18 +1,18 @@
-# Dundanagoud Patil
+# Hi, I'm Dundanagoud 👋
 
-### Full Stack Engineer
+**Full Stack Engineer** · Bengaluru, India
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetanpatil2243@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dundanagoud-patil/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dundanagoudp)
+I have close to three years of experience building and deploying web applications with React.js, Next.js, Node.js, TypeScript, PostgreSQL, MongoDB and AWS.
 
-📱 +91-8830525852
+I've worked on government and commercial platforms, including one for the Bhutan government that serves 10,000+ students and teachers. Most of my work involves REST APIs, microservices, Docker, CI/CD, cloud deployments and performance optimization. I've also worked on a few AI features, like using the Gemini API for lesson planning.
 
 ---
 
-## Professional Summary
+## Currently Working On
 
-Full Stack Engineer with 2+ years building and shipping production-grade applications for government and enterprise clients. Deep expertise in React.js, Node.js, and cloud-native AWS architectures — from microservices design to CI/CD automation. Track record of delivering high-availability platforms (99.9% uptime) serving 10,000+ daily users, with hands-on ownership across the full delivery lifecycle: architecture, development, deployment, and optimization.
+- Building features for an AI-powered recruitment and interview platform at InCruiter.
+- Working mainly with Next.js, Node.js and PostgreSQL.
+- Working on backend architecture, cloud deployments and AI integrations.
 
 ---
 
@@ -34,9 +34,12 @@ Full Stack Engineer with 2+ years building and shipping production-grade applica
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-4B4B4B?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-4B4B4B?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-4B4B4B?style=for-the-badge)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-4B4B4B?style=for-the-badge)
 
 **Cloud & DevOps**
 
@@ -44,120 +47,96 @@ Full Stack Engineer with 2+ years building and shipping production-grade applica
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-4B4B4B?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4B4B4B?style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-*AWS services used: EC2, ECS/Fargate, S3, RDS, DynamoDB, API Gateway, CloudFront, Lambda, CloudWatch, IAM*
+*AWS services used: EC2, ECS/Fargate, S3, RDS, API Gateway, CloudFront, Lambda, CloudWatch, IAM*
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Architecture & Practices**
 
-![Serverless](https://img.shields.io/badge/Serverless-4B4B4B?style=for-the-badge)
-![Cloud Native](https://img.shields.io/badge/Cloud--Native-4B4B4B?style=for-the-badge)
-![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-4B4B4B?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-4B4B4B?style=for-the-badge)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-4B4B4B?style=for-the-badge)
-![AI Integration](https://img.shields.io/badge/AI_Integration-4B4B4B?style=for-the-badge)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-4B4B4B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-4B4B4B?style=for-the-badge)
+![API Security](https://img.shields.io/badge/API_Security-4B4B4B?style=for-the-badge)
+![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-4B4B4B?style=for-the-badge)
+![Caching](https://img.shields.io/badge/Caching-4B4B4B?style=for-the-badge)
+![Backend Testing](https://img.shields.io/badge/Backend_Testing-4B4B4B?style=for-the-badge)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-4B4B4B?style=for-the-badge)
+
+**AI**
+
+![AI/LLM Integration](https://img.shields.io/badge/AI%2FLLM_Integration-4B4B4B?style=for-the-badge)
+![Google Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![AI-assisted features](https://img.shields.io/badge/AI--assisted_features-4B4B4B?style=for-the-badge)
 
 ---
 
-## Professional Experience
+## Experience
 
-**Software Engineer II** — Digi9 Reach Info Systems Private Limited
-*Apr 2025 – Present | Bengaluru, India*
-- Own end-to-end deployment of government-grade platforms on AWS (ECS/Fargate, EC2, API Gateway) with automated CI/CD pipelines — cutting deployment time by 50% and sustaining 99.9% uptime for citizen-facing services at national scale.
-- Architected multi-role cloud-native e-commerce infrastructure on AWS (EC2, S3, RDS, DynamoDB) with Docker containerization, reliably serving 10,000+ daily users across distributed dashboards.
-- Led full-stack delivery of Google Classroom Analytics Platform for the Bhutan Government — Node.js backend, React.js frontend, PostgreSQL/MongoDB with Redis caching on AWS EC2 — from design through production launch.
-- Drive Agile ceremonies across cross-functional teams; delivered Karnataka DIPR and Arunachal DIPR government portals on schedule using GitHub Actions and Docker-based CI/CD automation.
-
-**Junior Software Engineer** — Digi9 Reach Info Systems Private Limited
-*Apr 2024 – Mar 2025 | Bengaluru, India*
-- Engineered scalable Node.js RESTful APIs on AWS EC2, optimizing PostgreSQL and MongoDB query performance to achieve 30% faster response times under 10,000+ daily request loads.
-- Built and maintained Docker + GitHub Actions CI/CD pipelines, eliminating 60% of manual deployment effort with automated testing, rollback, and environment parity.
-- Accelerated React.js/Next.js frontend performance by 40% through AWS CloudFront CDN integration, while improving mobile responsiveness by 15% across production interfaces.
-- Established MongoDB cluster backup automation to AWS S3 and Firebase real-time workflows, increasing data synchronization speed by 40% and ensuring zero-loss disaster recovery.
-
-**Software Development Engineer Intern** — Digi9 Reach Info Systems Private Limited
-*Jan 2024 – Mar 2024 | Bengaluru, India*
-- Delivered 15+ production-ready responsive UI components in HTML5, CSS3, and JavaScript, contributing to a 20% improvement in page performance for live e-commerce platforms.
-- Accelerated bug resolution by 30% through disciplined React component debugging and Git version control within an Agile team environment.
+- **Product Developer**, InCruiter: Aug 2026 – Present, Bengaluru, India
+- **Software Engineer II**, Digi9 Reach Info Systems Private Limited: Jan 2024 – Aug 2026, Bengaluru, India
+- **Software Development Engineer Intern**, Digi9 Reach Info Systems Private Limited: Oct 2023 – Dec 2023, Bengaluru, India
 
 ---
 
-## Projects
+## Selected Projects
 
-**YFSI Platform — Youth For Social Innovation** | *Next.js, Node.js, PostgreSQL, MongoDB, Redis, RabbitMQ, Docker* (2026)
-- Architected national-scale youth innovation platform with Next.js frontend and Node.js microservices (API Gateway, Core, Chat/LMS) for 10+ user roles — covering full lifecycle: enrollment, LMS, AI evaluation, mentorship, and automated certificate generation.
-- Built real-time chat (Socket.IO), async workers (RabbitMQ, BullMQ) for AI scoring and PDF generation, and deployed all services on AWS/Azure with Docker CI/CD and encrypted JWT auth.
+**Government CMS & Public Portal: Arunachal Pradesh DIPR** (2026)
+Sole developer of a custom CMS and public website for a state government department. It runs on top of the department's existing WordPress/MySQL database, with no data migration and no downtime. JWT authentication works with WordPress's phpass password hashing, and there is role-based access control and an admin panel covering 15+ content types across 350+ pages and about 8,500 media assets. I also closed 4 findings from an external security audit, including a stored XSS bug and a JWT audience-binding gap, without downtime or forcing anyone to log back in, and grew the backend test suite from 25 tests to 85.<br>
+*Next.js 16, TypeScript, Node.js, Express.js, Sequelize, MySQL, JWT, RBAC, REST APIs*
 
-**Google Classroom Analytics Platform** | *Next.js, Node.js, PostgreSQL, MongoDB, Redis, AWS, Docker, Nginx* (2025)
-- Delivered 130+ REST API endpoints with Redis caching for Bhutan Government, serving 10,000+ students and teachers at 99.8% uptime with sub-200ms response times on AWS EC2.
-- Built multi-tier RBAC dashboards (Super Admin, District, Teacher, Student) with OAuth 2.0 and integrated Gemini API for AI-powered lesson planning with persistent conversation state.
+**YFSI Platform: Youth For Social Innovation** (2026)
+A youth innovation platform with 10+ user roles, covering enrollment, an LMS, mentorship, AI evaluation and certificate generation. It has a Next.js frontend and Node.js microservices (API Gateway, Core, Chat/LMS). Real-time chat runs on Socket.IO, and RabbitMQ/BullMQ workers handle AI scoring and PDF generation. Authentication is JWT-based, and it's deployed with Docker on AWS/Azure.<br>
+*Next.js, Node.js, PostgreSQL, MongoDB, Redis, RabbitMQ, BullMQ, Socket.IO, Docker, AWS, Azure*
 
-**Karnataka Varthe — Official Government News Portal** | *React.js, Node.js, MongoDB, Firebase, AWS, Docker* (2025)
-- Shipped varthe.karnataka.gov.in — React on AWS S3/CloudFront, Node.js on EC2 with Nginx load balancing, zero-downtime deployments via GitHub Actions CI/CD, and MongoDB with automated S3 backups.
-- Built multilingual UI with React Context API, Firebase real-time integration, and modular Axios service layers for news, magazines, videos, galleries, and secure auth workflows.
+**Google Classroom Analytics Platform** (2025)
+Built for the Bhutan government. It has 130+ REST API endpoints with Redis caching and serves 10,000+ students and teachers at 99.8% uptime, with sub-200ms response times on AWS EC2. It includes role-based dashboards for Super Admin, District, Teacher and Student using OAuth 2.0. Integrated the Gemini API for AI-assisted lesson planning with persistent conversation state.<br>
+*Next.js, Node.js, PostgreSQL, MongoDB, Redis, Gemini API, AWS EC2, Docker, Nginx*
 
-**TopRise Multi-Role E-Commerce Platform** | *TypeScript, Redux Toolkit, Node.js, PostgreSQL, AWS, Docker* (2024–2025)
-- Reduced infrastructure costs by 40% architecting AWS EC2 + API Gateway with PostgreSQL RDS; handled 10,000+ concurrent users via ECS/Fargate auto-scaling with blue-green CI/CD.
-- Built 5 role-based dashboards (Super Admin, Fulfillment, Inventory, Dealer, Support) with Redux Toolkit state management and Razorpay payment gateway with webhook validation.
+**Karnataka Varthe: Official Government News Portal** (2025)
+varthe.karnataka.gov.in. React frontend on AWS S3/CloudFront, Node.js backend on EC2 behind Nginx, MongoDB with automated S3 backups, and zero-downtime deployments through GitHub Actions. The UI is multilingual, built with React Context API and Firebase real-time integration.<br>
+*React.js, Node.js, MongoDB, Firebase, AWS, Nginx, GitHub Actions, Docker*
 
-**Arunachal Literature Festival Portal** | *Next.js 15, TypeScript, Tailwind CSS 4, Node.js, AWS, Docker* (2025)
-- Delivered litfest.arunachal.gov.in — Next.js 15 frontend with Tailwind CSS 4 optimized for low-bandwidth regions, backend event management APIs, and secure AWS production deployment with CI/CD.
-- Built admin workflows for event schedules, cultural programs, speaker profiles, and media galleries with content management and zero-downtime Docker deployments.
+**TopRise Multi-Role E-Commerce Platform** (2024–2025)
+Rebuilt the backend on AWS EC2 and API Gateway with PostgreSQL on RDS, which cut infrastructure costs by about 40%. ECS/Fargate auto-scaling and blue-green CI/CD support 10,000+ users. Includes five role-based dashboards built with Redux Toolkit, and Razorpay payments with webhook validation.<br>
+*TypeScript, Redux Toolkit, Node.js, PostgreSQL, AWS, Docker, Razorpay*
 
-**Arunachal Film Festival Platform** | *Next.js, Node.js, Express.js, MongoDB, JWT, Multer, Nodemailer* (2025)
-- Delivered filmfest.arunachal.gov.in — REST APIs for film submissions, event registration, nominations, awards, and workshops with Multer file uploads, JWT auth, CAPTCHA, rate limiting, and Helmet security headers.
-- Built admin dashboard with real-time KPIs (submissions, registrations, events, awards) and full CMS for banners, announcements, guest profiles, and Nodemailer email notification workflows.
+**Arunachal Literature Festival Portal** (2025)
+litfest.arunachal.gov.in. Built with Next.js 15 and Tailwind CSS 4 and tuned for low-bandwidth regions. Includes event-management APIs and admin workflows for schedules, cultural programs, speaker profiles and media galleries, deployed with Docker and CI/CD on AWS.<br>
+*Next.js 15, TypeScript, Tailwind CSS 4, Node.js, AWS, Docker*
 
-**Uber Map Integration System** | *React.js, Node.js, Express.js, MongoDB, Socket.IO, Docker* (2024)
-- Built complete ride-hailing backend with REST APIs for booking, real-time GPS tracking, dynamic fare calculation, and map integration — containerized with Docker for multi-environment deployment.
-- Engineered real-time driver-rider communication via Socket.IO with instant location updates, push notifications, and JWT-secured role-based access control for Rider, Driver, and Captain roles.
+**Arunachal Film Festival Platform** (2025)
+filmfest.arunachal.gov.in. REST APIs for film submissions, event registration, nominations and awards, with file uploads through Multer. Secured with JWT, CAPTCHA, rate limiting and Helmet. Includes an admin dashboard with real-time KPIs and a CMS for banners, announcements and guest profiles, with Nodemailer email notifications.<br>
+*Next.js, Node.js, Express.js, MongoDB, JWT, Multer, Nodemailer*
 
----
-
-## Education
-
-**Bachelor of Engineering in Mechanical Engineering**
-Visvesvaraya Technological University, Vijayapura, Karnataka
-*Jul 2019 – May 2023*
-CGPA: 8.09/10 (78%)
+**Uber Map Integration System** (2024)
+A ride-hailing backend with REST APIs for booking, real-time GPS tracking, fare calculation and map integration. Uses Socket.IO for live driver-rider updates and push notifications, with JWT-secured role-based access for Rider, Driver and Captain roles. Containerized with Docker.<br>
+*React.js, Node.js, Express.js, MongoDB, Socket.IO, Docker*
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-multiuser.vercel.app/api?username=dundanagoudp&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=dundanagoudp&theme=default&hide_border=true" />
-</p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?username=dundanagoudp&layout=compact&theme=default&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dundanagoudp&theme=minimal&hide_border=true&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=dundanagoudp&theme=flat&no-frame=true&row=1&column=7" />
+  <img height="180em" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=dundanagoudp&theme=default&hide_border=true" />
 </p>
 
 ---
 
 ## Contact
 
-- Email: [chetanpatil2243@gmail.com](mailto:chetanpatil2243@gmail.com)
 - LinkedIn: [dundanagoud-patil](https://www.linkedin.com/in/dundanagoud-patil/)
 - GitHub: [dundanagoudp](https://github.com/dundanagoudp)
-- Phone: +91-8830525852
+- Email: [chetanpatil2243@gmail.com](mailto:chetanpatil2243@gmail.com)
