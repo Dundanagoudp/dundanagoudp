@@ -83,7 +83,6 @@ I've worked on government and commercial platforms, including one for the Bhutan
 
 ## Experience
 
-- **Product Developer**, InCruiter: Aug 2026 – Present, Bengaluru, India
 - **Software Engineer II**, Digi9 Reach Info Systems Private Limited: Jan 2024 – Aug 2026, Bengaluru, India
 - **Software Development Engineer Intern**, Digi9 Reach Info Systems Private Limited: Oct 2023 – Dec 2023, Bengaluru, India
 
