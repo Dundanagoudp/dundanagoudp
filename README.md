@@ -10,7 +10,6 @@ I've worked on government and commercial platforms, including one for the Bhutan
 
 ## Currently Working On
 
-- Building features for an AI-powered recruitment and interview platform at InCruiter.
 - Working mainly with Next.js, Node.js and PostgreSQL.
 - Working on backend architecture, cloud deployments and AI integrations.
 
